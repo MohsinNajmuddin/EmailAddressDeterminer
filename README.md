@@ -1,6 +1,6 @@
 # Email Determiner App
 
-The app is build for the purpose of determining the email address of the employee belonging to different organizations. The app determines the email addresses of the employees by using the format set by the employer to generate the email addresses.
+The app is build for the purpose of determining the email address of the employees belonging to different organizations. The app determines the email addresses of the employees by using the format set by the employer to generate the email addresses.
 
 ### Demo
 
