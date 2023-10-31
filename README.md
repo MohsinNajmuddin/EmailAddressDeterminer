@@ -4,6 +4,9 @@ The app is build for the purpose of determining the email address of the employe
 
 ### Demo
 
+![demo](https://github.com/MohsinNajmuddin/EmailAddressDeterminer/assets/11629780/66d93157-4cc4-4d02-8528-1c55da5cce64)
+
+
 
 
 ## Getting Started
